@@ -1,0 +1,10 @@
+ipykernel
+langchain
+langchain-text-splitters
+sentence-transformers
+langchain-huggingface
+langchain-chroma
+langchain-ollama
+langchain-community
+rank_bm25
+langchain-openai
